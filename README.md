@@ -1,6 +1,8 @@
 # Fake_News_Detector
 Utilizing Bidirectional LSTM model with DistilBERT word embeddings to classify news as fake or real
 
+*This project is a group work with Oğulcan Karakollukçu*
+
 To execute the entire project in Google Colab, follow these steps:
 
 Step 1: Prepare the Required Files and Keys
