@@ -28,7 +28,7 @@ This is used to track training metrics during DistilBERT model training.
 
 Info:
 This ipynb file can be executed in nearly 40 minutes with A100 GPU in Google Colab.
-Datasets are loaded to the prohram with commands. The user must enter the correct keys.
+Datasets are loaded to the program with commands. The user must enter the correct keys.
 To skip the baseline DistilBERT model training and testing part, the user must command all the code between the markdowns COMMAND 1 and COMMAND 2.
 
 Recommended executing:
